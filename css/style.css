@@ -129,3 +129,21 @@ body {
   background-color: rgb(25, 223, 130);
   transition: 1.5s;
 }
+
+.three {
+  margin: 0 auto 50px;
+  width: 150px;
+  border-radius: 10px;
+  background-color: rgb(6, 247, 58);
+  color: rgb(4, 20, 236);
+  padding: 17px 15px;
+  cursor: pointer;
+  border: none;
+}
+
+.three:hover {
+  border-radius: 70%;
+  background-color: rgb(247, 6, 6);
+  color: rgb(243, 227, 7);
+  transition: 1.5s;
+}
